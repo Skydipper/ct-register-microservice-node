@@ -15,9 +15,10 @@ In listen callback of koajs app add the next code:
         swagger: swagger,
         logger: logger, 
         app: app
-        mode:
+        mode: 
         framework:
-
+        token: 
+        ctUrl:
     });
     p.then(function() {}, function(err) {
         logger.error(err);

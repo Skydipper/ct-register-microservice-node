@@ -3,9 +3,10 @@ extends: airbnb
 env:
   node: true
   es6: true
+parser: babel-eslint
 parserOptions:
   sourceType: module
-  ecmaVersion: 6
+  ecmaVersion: 7
 rules:
   max-len: [1, 120, 2, {"ignoreUrls":true}]
   curly: [2, "multi-line"]

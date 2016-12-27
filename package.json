@@ -1,6 +1,6 @@
 {
   "name": "ct-register-microservice-node",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Library for interact in the microservice with the Control-tower api-gateway (register,  do request to other microservices, etc)",
   "main": "index.js",
   "scripts": {

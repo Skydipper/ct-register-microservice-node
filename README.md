@@ -1,7 +1,7 @@
 # ct-register-microservice-node
 Library to register microservice in the control-tower api-gateway. This library implement the /info and /ping endpoint that the control-tower uses to obtain info of the registered microservices and check live.
 
-Support to koa 1.x/2.x frameworks. 
+Support to koa 1.x frameworks. 
 TODO: Express v4
 
 ## Install

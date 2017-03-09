@@ -1,6 +1,6 @@
 {
 	"name": "ct-register-microservice-node",
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"description": "Library for interact in the microservice with the Control-tower api-gateway (register,  do request to other microservices, etc)",
 	"main": "index.js",
 	"scripts": {
@@ -18,9 +18,6 @@
 	],
 	"author": "Ra <rrequero@gmail.com>",
 	"license": "MIT",
-	"publishConfig": {
-		"tag": "next"
-	},
 	"bugs": {
 		"url": "https://github.com/control-tower/ct-register-microservice-node/issues"
 	},

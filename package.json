@@ -1,7 +1,7 @@
 {
-  "name": "ct-register-microservice-node",
+  "name": "sd-ct-register-microservice-node",
   "version": "2.1.7",
-  "description": "Library for interact in the microservice with the Control-tower api-gateway (register,  do request to other microservices, etc)",
+  "description": "Integration library for microservices using the Control Tower API gateway",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
